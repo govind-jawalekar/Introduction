@@ -20,7 +20,7 @@ Welcome to **VisvesvarayaCode**, a space dedicated to building **enterprise-read
 
 ## ⚙️ Backend Technologies
 <p>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=python"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB43F?style=for-the-badge&logo=spring"/>
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate"/>
   <img src="https://img.shields.io/badge/JDBC-003366?style=for-the-badge"/>
