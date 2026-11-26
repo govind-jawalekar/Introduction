@@ -1,7 +1,7 @@
 # 🚀 Govind Jawalekar
 ### Aspiring Big Data Engineer | Data Engineering | Distributed Computing
 
-> **"Without data, you're just another person with an opinion."**  
+> **"Without data, you're just another person with an opinion."**
 > — W. Edwards Deming
 
 Welcome to **Govind's Data Engineering Space!**
@@ -40,8 +40,9 @@ My goal is to transform raw data into meaningful insights through efficient, rel
 
 <p>
 <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/ETL_Pipelines-2496ED?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Real_Time_Streaming-FF4F00?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/ETL_Pipelines-2496ED?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
 </p>
 
 ---
@@ -51,7 +52,8 @@ My goal is to transform raw data into meaningful insights through efficient, rel
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL_Databases-003B57?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
 ---
@@ -71,6 +73,7 @@ My goal is to transform raw data into meaningful insights through efficient, rel
 ## 🚀 Featured Projects
 
 ### 📊 Walmart Big Data Engineering Pipeline
+
 **Technologies:** Python, Apache Kafka, PySpark, Apache Airflow
 
 Building an end-to-end Big Data pipeline to process Walmart sales data.
@@ -82,6 +85,7 @@ Building an end-to-end Big Data pipeline to process Walmart sales data.
 - Building a scalable data processing architecture.
 
 ### ⚡ Real-Time Data Processing with Kafka & PySpark
+
 **Technologies:** Apache Kafka, PySpark, Python
 
 - Implementing real-time data ingestion.
